@@ -1,4 +1,8 @@
 ### WELCOME TO MY PROFILE!
+
+Oi, tudo bem?? Me chamo Leticia, e atualmente estou focada em desenvolvimento front-end;
+Fique a vontade, e qualquer coisa, pode me chamar no LinkedIn ou me enviar um E-mail.
+##
  <div>
   <a href="https://github.com/LeticiaMagrin">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LeticiaMagrin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
