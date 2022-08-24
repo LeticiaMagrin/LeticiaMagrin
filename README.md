@@ -1,6 +1,7 @@
 ### WELCOME TO MY PROFILE!
 
-Oi, tudo bem?? Me chamo Leticia, e atualmente estou focada em desenvolvimento front-end;
+Oi, tudo bem?? Me chamo Leticia, e atualmente estou focada em desenvolvimento front-end.
+
 Fique a vontade, e qualquer coisa, pode me chamar no LinkedIn ou me enviar um E-mail.
 ##
  <div>
