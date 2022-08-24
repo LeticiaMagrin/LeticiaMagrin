@@ -2,7 +2,7 @@
 
 Oi, tudo bem?? Me chamo Leticia, e atualmente estou focada em desenvolvimento front-end.
 
-Fique a vontade, e qualquer coisa, pode me chamar no LinkedIn ou me enviar um E-mail.
+Fique a vontade, e qualquer coisa, pode me chamar no LinkedIn ou me enviar um e-mail.
 ##
  <div>
   <a href="https://github.com/LeticiaMagrin">
