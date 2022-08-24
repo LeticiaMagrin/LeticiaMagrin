@@ -4,7 +4,7 @@ Oi, tudo bem?? Me chamo Leticia, e atualmente estou focada em desenvolvimento fr
 
 Fique a vontade, e qualquer coisa, pode me chamar no LinkedIn ou me enviar um e-mail.
 ##
- <div>
+ <div align="center">
   <a href="https://github.com/LeticiaMagrin">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LeticiaMagrin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180cm" width src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMagrin&layout=compact&langs_count-16&theme=tokyonight"/>
