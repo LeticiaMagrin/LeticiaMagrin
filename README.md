@@ -26,6 +26,7 @@ Fique a vontade, e qualquer coisa, pode me chamar no LinkedIn ou me enviar um E-
   
   
   ![Snake animation](https://github.com/LeticiaMagrin//blob/output/github-contribution-grid-snake.svg)
+  
  </div>
           
       
