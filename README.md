@@ -23,7 +23,7 @@ Fique a vontade, e qualquer coisa, pode me chamar no LinkedIn ou me enviar um E-
  <div>
    <a href="https://www.linkedin.com/in/leticiamagrin/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:leticiamagrin@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://www.linkedin.com/in/leticiamagrin/)
+  ![Snake animation](https://www.linkedin.com/in/leticiamagrin//blob/output/github-contribution-grid-snake.svg)
  </div>
           
       
